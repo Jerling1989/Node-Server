@@ -1,0 +1,22 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jerling1989/Node-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jerling1989/Node-Server/issues"
+  },
+  "homepage": "https://github.com/Jerling1989/Node-Server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
